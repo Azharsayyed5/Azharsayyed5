@@ -2,17 +2,18 @@
 
 ![twitter-follower](https://img.shields.io/twitter/follow/aarizsayyed05?style=social) ![github-sponsors](https://img.shields.io/github/sponsors/Azharsayyed5?label=GitHub%20Sponsors&style=social)
 
-A Software Engineer specializing in JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
+A Software Engineer specializing in Python, JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
 
-I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
-
-I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
+I create web development projects using python and javascript, I also specialize *not completely, still learning* in data science and loves to solve data science problems sometimes. I read and practice alot to stay up-to-date!
 
 ---
 
 ### 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cetoni.de%2Ffileadmin%2Fuser_upload%2FDocuments%2FManuals%2FQmixSDK%2FQmixSDK_Python.html&psig=AOvVaw2qMIViXNRAa_Lt4hApxnoY&ust=1617808170403000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCb3v7z6e8CFQAAAAAdAAAAABAD" alt="TailwindCSS" width="50" height="50"/
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> <img src="https://nuxtjs.org/logos/nuxtjs-typo.svg" alt="Nuxt" width="90" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
