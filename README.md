@@ -4,7 +4,7 @@
 
 A Software Engineer specializing in Python, JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
 
-I create web development projects using python and javascript, I also specialize *not completely, still learning* in data science and loves to solve data science problems sometimes. I read and practice alot to stay up-to-date!
+I create web development projects using python and javascript, I also specialize *(not completely, still learning)* in data science and loves to solve data science problems sometimes. I read and practice alot to stay up-to-date!
 
 ---
 
