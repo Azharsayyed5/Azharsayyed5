@@ -12,8 +12,7 @@ I create web development projects using python and javascript, I also specialize
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cetoni.de%2Ffileadmin%2Fuser_upload%2FDocuments%2FManuals%2FQmixSDK%2FQmixSDK_Python.html&psig=AOvVaw2qMIViXNRAa_Lt4hApxnoY&ust=1617808170403000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCb3v7z6e8CFQAAAAAdAAAAABAD" alt="TailwindCSS" width="50" height="50"/
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> <img src="https://nuxtjs.org/logos/nuxtjs-typo.svg" alt="Nuxt" width="90" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
