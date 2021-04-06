@@ -26,14 +26,13 @@ I create web development projects using python and javascript, I also specialize
 ### 📺 My Best Works
 
 <!-- PROJECT-LIST:START -->
-- [I Regret Buying A $4400 Macbook For Software Development - I Bought A PC](https://www.youtube.com/watch?v=6p9AbkwJqs4)
-- [How To Contribute To Open-Source Projects As A Beginner](https://www.youtube.com/watch?v=8e1Mnkdgi4Y)
-- [KeystoneJS & GraphQL API Crash Course](https://www.youtube.com/watch?v=SfYNg6vQH4I)
-- [6 Things I Learnt After Programming Nearly Destroyed My Life](https://www.youtube.com/watch?v=H4mZ4NLiG4o)
-- [Saturday Dev Stream - KeystoneJS, Technical Writing and more [Join Us]](https://www.youtube.com/watch?v=Oj9gj-JtTdQ)
+- [SOCIAL CHAT APPLICATION | DJango | Websocket | JavaScript | Redis](https://github.com/Azharsayyed5/Instant_chat_application)
+- [CHAT BOT | tensorflow | Python](https://github.com/Azharsayyed5/Chat-Bot-Tensorflow)
+- [PAYMENT GATEWAY | Flask | PayTM APIs | Tailwind CSS](https://github.com/Azharsayyed5/payment-gateway)
+- - [HEART DIDEASE PREDICTION | Tensorflow | Python](https://github.com/Azharsayyed5/heart-disease-prediction)
 <!-- PROJECT-LIST:END -->
 
-➡️ [more projects...](https://github.com/Azharsayyed5/Azharsayyed5)
+➡️ [more projects...](https://github.com/Azharsayyed5?tab=repositories)
 
 ---
 <!--
