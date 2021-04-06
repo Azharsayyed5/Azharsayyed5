@@ -11,8 +11,8 @@ I create web development projects using python and javascript, I also specialize
 ### 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/> <img src="https://nuxtjs.org/logos/nuxtjs-typo.svg" alt="Nuxt" width="90" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="90" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="ff" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/keystonejs.svg" alt="KeystoneJS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
