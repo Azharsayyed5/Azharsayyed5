@@ -26,10 +26,10 @@ I create web development projects using python and javascript, I also specialize
 ### 📺 My Best Works
 
 <!-- PROJECT-LIST:START -->
-- [SOCIAL CHAT APPLICATION | DJango | Websocket | JavaScript | Redis](https://github.com/Azharsayyed5/Instant_chat_application)
-- [CHAT BOT | tensorflow | Python](https://github.com/Azharsayyed5/Chat-Bot-Tensorflow)
-- [PAYMENT GATEWAY | Flask | PayTM APIs | Tailwind CSS](https://github.com/Azharsayyed5/payment-gateway)
-- - [HEART DIDEASE PREDICTION | Tensorflow | Python](https://github.com/Azharsayyed5/heart-disease-prediction)
+- [SOCIAL CHAT APPLICATION - DJango | Websocket | JavaScript | Redis](https://github.com/Azharsayyed5/Instant_chat_application)
+- [CHAT BOT | tensorflow - Python](https://github.com/Azharsayyed5/Chat-Bot-Tensorflow)
+- [PAYMENT GATEWAY | Flask - PayTM APIs | Tailwind CSS](https://github.com/Azharsayyed5/payment-gateway)
+- [HEART DIDEASE PREDICTION - Tensorflow | Python](https://github.com/Azharsayyed5/heart-disease-prediction)
 <!-- PROJECT-LIST:END -->
 
 ➡️ [more projects...](https://github.com/Azharsayyed5?tab=repositories)
