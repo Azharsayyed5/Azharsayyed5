@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Azhar sayyed!
 
-![twitter-follower](https://img.shields.io/twitter/follow/catalinmpit?style=social) ![github-sponsors](https://img.shields.io/github/sponsors/catalinpit?label=GitHub%20Sponsors&style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCl1IRCSmm74qhcFNPTHcbMg?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCl1IRCSmm74qhcFNPTHcbMg?label=Total%20views%20on%20my%20YouTube%20Channel&style=social)
+![twitter-follower](https://img.shields.io/twitter/follow/aarizsayyed05?style=social) ![github-sponsors](https://img.shields.io/github/sponsors/Azharsayyed5?label=GitHub%20Sponsors&style=social)
 
 A Software Engineer specializing in JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
 
