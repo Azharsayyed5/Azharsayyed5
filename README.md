@@ -23,7 +23,7 @@ I create web development projects using python and javascript, I also specialize
 
 ---
 
-### 📺 My Best Works
+### 👨‍💻 My Best Works
 
 <!-- PROJECT-LIST:START -->
 - [SOCIAL CHAT APPLICATION - DJango | Websocket | JavaScript | Redis](https://github.com/Azharsayyed5/Instant_chat_application)
